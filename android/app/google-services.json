@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "87044758179",
+    "project_id": "finance-tracker-33881",
+    "storage_bucket": "finance-tracker-33881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87044758179:android:68119556ba2820506efd16",
+        "android_client_info": {
+          "package_name": "com.example.finance_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87044758179-er2b2buu6r7jtn33ntbap115msd8v425.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finance_tracker",
+            "certificate_hash": "1c78d705740e1ca8b251470777933c1341e72eea"
+          }
+        },
+        {
+          "client_id": "87044758179-7as3maknlm6nl3v99f257tgcsnnrhft8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgfMH3FSYEeBFACsyhDqIg12XnhEkQxgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87044758179-7as3maknlm6nl3v99f257tgcsnnrhft8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87044758179-m8fsdcgfe26pjndvkuvg7jtslk23lq04.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.financeTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
